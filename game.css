@@ -29,11 +29,11 @@ body {
 
 .choice-prefix {
     padding: 2rem 2.5rem;
-    color: rgb(99, 170, 7);
+    color: rgb(3, 5, 0);
 }
 
 .choice-text {
-    color: blueviolet;
+    color: rgb(2, 0, 3);
     padding: 2rem;
     width: 100%;
 }
