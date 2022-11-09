@@ -33,6 +33,7 @@ body {
 }
 
 .choice-text {
+    color: blueviolet;
     padding: 2rem;
     width: 100%;
 }
